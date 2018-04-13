@@ -1,0 +1,18 @@
+p.interesting-fact{
+  	font-style: italic;
+}
+
+#facts {
+	list-style-type: none;
+}
+
+#container {
+	border-style: groove;
+    padding: 10px;
+}
+
+#animal-info {
+	border-style: groove;
+	padding: 10px;
+}
+
